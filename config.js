@@ -8,7 +8,7 @@ window.PULSE_CONFIG = {
   headline: 'Small window.\nBig picture.',
   description: 'Your network, processor, and memory. One clear view. Keep an eye on what matters, without losing focus on what you’re doing.',
   downloads: [
-     { id: 'x86', label: 'Windows · 32-bit (x86)', url: '', filename: '', version: '', size: '', requirements: 'System requirements will be available with the first release.' }
+     { id: 'x86', label: 'Windows · 32-bit (x86)', url: ' https://github.com/sherali322/pulse-monitor/releases/download/V1/pulse-monitor.exe', filename: '', version: '', size: '', requirements: 'System requirements will be available with the first release.' }
   ],
   supportEmail: ''
 };
